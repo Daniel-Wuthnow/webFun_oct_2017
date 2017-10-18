@@ -1,4 +1,4 @@
-Web Fundamentals - September 2017
+Web Fundamentals - October 2017
 ====================
 
 # Daily Commits
