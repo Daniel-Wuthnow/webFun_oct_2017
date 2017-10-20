@@ -79,8 +79,13 @@ height: 357px;
 			width: 30%;
 		}
 
-			.la_mode img{
+			#la_mode{
 				width: 100%;
+			}
+
+			.la_mode img{
+				width: 17%;
+				padding: 2px;
 			}
 
 			.la_mode h1{
@@ -119,8 +124,13 @@ height: 357px;
 			margin-left: 30px;
 		}
 
-			.family_contacts img{
+			#family_contacts{
 				width: 100%;
+			}
+
+			.family_contacts img{
+				width: 17%;
+				padding: 2px;
 			}
 
 			.family_contacts h1{
@@ -159,8 +169,14 @@ height: 357px;
 			margin-bottom: 20px;
 		}
 
-			.fiveeleven img{
+			#fiveeleven{
 				width: 100%;
+			}
+
+
+			.fiveeleven img{
+				width: 17%;
+				padding: 2px;
 			}
 
 			.fiveeleven h1{
@@ -191,10 +207,7 @@ height: 357px;
 				margin: 0px;	
 			}
 
-#icon{
-	width: 55px;
-	margin: 5px 2px 2px 9px;
-}
+
 
 .submit{
 	border:1px solid black;
