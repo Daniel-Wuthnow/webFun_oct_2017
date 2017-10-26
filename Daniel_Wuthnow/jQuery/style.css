@@ -1,0 +1,17 @@
+#downunder{
+	display: none;
+}
+
+#potato{
+	width: 400px;
+	display: none;
+}
+
+#bakedpotato{
+	width: 400px;
+	display: none;
+}
+
+.selected{
+	text-decoration: underline;
+}

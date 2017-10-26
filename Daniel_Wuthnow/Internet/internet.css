@@ -1,7 +1,41 @@
 *{
 	width: 1000px;
+	margin: 0px;
+}
+
+.top{
+	height: 68px;
+	background: gray;
 }
 
 .top img{
-	width: 40px;
+    width: 86px;
+    display: inline-block;
+    float: left;
+}
+
+.internet{
+    display: inline-block;
+    position: relative;
+    top: 19px;
+    margin-top: 0px;
+    font-size: 34px;
+    width: 400px;
+}
+
+.web{
+	    font-size: 23px;
+    margin: 0px;
+    background: blue;
+    padding: 21px 0px;
+    position: relative;
+    bottom: 19px;
+    z-index: -1;
+    float: left;
+    color: white;
+}
+
+.left{
+    display: inline-block;
+    width: 300px;
 }
