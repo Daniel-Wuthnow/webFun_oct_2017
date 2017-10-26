@@ -1,0 +1,16 @@
+#container{
+	width: 1060px;
+	background-color: grey;
+}
+.ninja{
+	height: 250px;
+	width: 250px;
+	display: inline-block;
+}
+
+.ninja img{
+	width: 250px;
+	height: 250px;
+	align-content: center;
+	background: white;
+}
