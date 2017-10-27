@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Users Info</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript"></script>
+	<script src="jquery-3.2.1.js"></script>
+	<script src="users.js"></script>
+</head>
+<body>
+	<div class="top">
+		<table>
+			<tr>
+				<th>First Name</th>
+				<th>Last Name</th>
+				<th>Email Address</th>
+				<th>Contact #</th>
+			</tr>
+			<!-- <tr>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr> -->
+		</table>
+	</div>
+	<div class="inputs">
+		<h1>Add User</h1>
+		<form  action="test.php" method="post">
+		First Name:<input placeholder="First Name" id="firstName" type="text" name="first_name"><br>
+		Last Name:<input placeholder="Last Name" id="lastName" type="text" name="last_name"><br>
+		Email Address:<input placeholder="Email Address" id="eMail" type="text" name="email_address"><br>
+		Contact #:<input placeholder="Phone Number" id="pNumber" type="text" name="contact#"><br>
+		<input type="submit" name="submit">
+	</form>
+	</div>
+	
+</body>
+</html>

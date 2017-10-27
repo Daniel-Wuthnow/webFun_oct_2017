@@ -1,0 +1,15 @@
+.top{
+	border-style: solid;
+	border-width: 1px;
+	/*width: 310px;*/
+	margin: 0px 30px;
+}
+h1{
+	border-style: solid;
+	border-width: 0px 0px 1px 0px;
+	width: 350px;
+}
+form{
+	text-align: right;
+	width: 300px;
+}
